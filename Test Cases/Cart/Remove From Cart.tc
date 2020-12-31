@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove From Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3144adc2-033b-49f9-956f-7d39d906a648</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.rootUrl</defaultValue>
+      <description></description>
+      <id>e13f6417-983d-478d-9875-354dd7ad2c01</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>c3ce1cde-c069-4fd8-84f9-f8e68a688474</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>620ef47c-bc4a-411c-82ef-80f07a4c8c0e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a76643e7-1fb6-4c67-aa1e-b4fceb352cc2</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.rootUrl</defaultValue>
+      <description></description>
+      <id>d5fe6f97-2702-4062-b6e2-558e43098c2f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>3707e5b7-3fd9-44ab-8705-82554a1141ba</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>18da9a70-f48a-4daf-8b48-e3fb2d555469</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

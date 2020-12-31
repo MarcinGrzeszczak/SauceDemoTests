@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Incorrect Checkout Missing Postal Code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85bc4f4b-a778-4e7c-821f-c353fd22e2f8</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.rootUrl</defaultValue>
+      <description></description>
+      <id>7576b2d0-e8b3-4a97-b0af-c148ae9710e6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>15135e79-db36-4e1c-9de2-27cde31cef58</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>f2f869ae-ef55-4ed9-a9f2-cdcd79d3d5db</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9bc1b73-d68d-4df6-a02b-7bc5b5ae7853</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa963ba6-2951-4544-afe0-d643d597841f</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+</TestCaseEntity>
