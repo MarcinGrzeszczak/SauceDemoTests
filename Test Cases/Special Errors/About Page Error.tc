@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>About Page Error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ae9aa86-9c61-4a64-a945-b74e002179bd</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.rootUrl</defaultValue>
+      <description></description>
+      <id>8d3a0655-42db-4adc-8aef-333885c89122</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'problem_user'</defaultValue>
+      <description></description>
+      <id>da44b2f3-53d8-40ff-b860-123792e87308</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>cbc0b81f-bbc5-42d6-9060-7e8a8d0022f2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

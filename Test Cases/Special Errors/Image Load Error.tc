@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Image Load Error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f82d17b8-d37e-4fc6-bf23-5e57e0644af9</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.rootUrl</defaultValue>
+      <description></description>
+      <id>7223ca46-4a81-4f9d-a3c6-583e56fff59a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'problem_user'</defaultValue>
+      <description></description>
+      <id>c78e5425-894d-42ed-a44b-42faa2c0a9ea</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>1eb01e7d-d85b-4f50-a648-bcac735899e6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
