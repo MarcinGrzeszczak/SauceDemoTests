@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Correct Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9140d673-4a28-41ff-b13e-10008532fd52</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.rootUrl</defaultValue>
+      <description></description>
+      <id>4ec84ccf-f984-4aa3-804f-371abe4fd381</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79f7b22e-383d-4537-aaf2-affb21036690</id>
+      <masked>false</masked>
+      <name>login</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>127d26e5-664c-4ec3-bcdf-43ae85ad6db4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
